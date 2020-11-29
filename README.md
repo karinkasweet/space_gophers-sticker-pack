@@ -15,6 +15,7 @@ If you want some fun gophers __t-shirts, mugs, stickers on a laptop__ - now you 
 [<img src="images/Gopher-space-commet.png" width="150">](images/Gopher-space-commet.png)
 [<img src="images/bubble.png" width="150">](images/bubble.png)
 [<img src="images/space-trip-Gr.png" width="150">](images/space-trip-Gr.png)
+[<img src="images/alien.png" width="150">](images/alien.png)
 
 ## License
 Both companies and individuals can use provided content for non-commercial purposes for FREE with NO attribution.
