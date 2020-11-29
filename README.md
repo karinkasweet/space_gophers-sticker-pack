@@ -3,7 +3,7 @@
 
 ## Space gophers
 
-[<img src="images/Space-trip-gophers.png" width="150">](images/Space-trip-gophers.png)
+[<img src="images/Space-trip-gophers.png" width="100%">](images/Space-trip-gophers.png)
 
 The Go gopher was designed by the awesome Renee French. Read http://blog.golang.org/gopher for more details.
 
