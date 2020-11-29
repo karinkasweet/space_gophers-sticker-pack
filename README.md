@@ -2,6 +2,7 @@
 # space_gophers
 
 Space gophers....
+[<img src="images/Gopher-in-rocket -gradient.png" width="0">](images/Gopher-in-rocket%20-gradient.png)
 The Go gopher was designed by the awesome Renee French. Read http://blog.golang.org/gopher for more details.
 
 License
