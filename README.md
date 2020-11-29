@@ -8,7 +8,7 @@ The Go gopher was designed by the awesome Renee French. Read http://blog.golang.
 
 ## Shop
 
-If you want some fun gophers __t-shirts, mugs, stickers on a laptop__ - now you can buy them with delivery to any place around the world:  
+If you want some fun gophers __t-shirts, mugs, stickers on a laptop__ - now you can buy them with delivery:  
 ✨👉 [Redbubble](https://www.redbubble.com/people/programzombie/explore?asc=u&page=1&sortOrder=recent) 👈✨
 
 [<img src="images/Gopher-in-rocket -gradient.png" width="150">](images/Gopher-in-rocket%20-gradient.png)
