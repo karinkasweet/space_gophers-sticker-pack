@@ -1,3 +1,4 @@
+
 # space_gophers
 
 Space gophers....
@@ -17,3 +18,8 @@ My name is Karina Slizova, I am a professional illustrator and graphic designer,
 
 Drop me an email, if you have any questions or suggestions:
 ✉ karinkasvit@gmail.com
+
+[<img src="images/Gopher-in-rocket -gradient.png" width="150">](images/Gopher-in-rocket%20-gradient.png)
+[<img src="images/Gopher-space-commet.png" width="150">](images/Gopher-space-commet.png)
+[<img src="images/bubble.png" width="150">](images/bubble.png)
+[<img src="images/space-trip-Gr.png" width="150">](images/space-trip-Gr.png)
