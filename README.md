@@ -12,6 +12,7 @@ About me
 My name is Karina Slizova, I am a professional illustrator and graphic designer, some of my works can be found here:
 
 🎨 Metal posters https://displate.com/karisl
+
 🎨 Redbubble      https://www.redbubble.com/people/programzombie/shop?asc=u
 
 Drop me an email, if you have any questions or suggestions:
