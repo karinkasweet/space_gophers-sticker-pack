@@ -18,6 +18,9 @@ If you want some fun gophers __t-shirts, mugs, stickers on a laptop__ - now you 
 [<img src="images/alien.png" width="150">](images/alien.png)
 
 ## License
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+This artwork can not be used for commercial purposes (anywhere revenue is obtained, including advertising).
 Both companies and individuals can use provided content for non-commercial purposes for FREE with NO attribution.
 Projects devoted to education, software development in Go Programming Language, and charity can use the content for FREE with attribution even for commercial purposes.
 Please see full [LICENSE](https://github.com/karinkasweet/space_gophers/blob/main/LICENSE) terms for details.
