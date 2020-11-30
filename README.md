@@ -4,7 +4,7 @@
 
 [<img src="images/Space-trip-gophers.png" width="100%">](images/Space-trip-gophers.png)
 
-The Go gopher was designed by the awesome Renee French. Read http://blog.golang.org/gopher for more details.
+The Go gopher was designed by the awesome [Renée French](http://reneefrench.blogspot.com/). Read http://blog.golang.org/gopher for more details.
 
 ## Shop
 
