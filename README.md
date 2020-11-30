@@ -36,5 +36,6 @@ Drop me an email, if you have any questions or suggestions:
 
 ## My other projects
 
-If you liked this project, you may also want to see [Gophers set](https://www.redbubble.com/shop/ap/63226432).
+If you liked this project, you may also want to see [Gophers set on Github](https://github.com/karinkasweet/Gophers-images-set) 
+[Gophers set on Redbubble](https://www.redbubble.com/shop/ap/63226432).
 
