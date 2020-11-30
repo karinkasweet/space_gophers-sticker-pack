@@ -34,7 +34,7 @@ My name is Karina Slizova, I am a professional illustrator and graphic designer,
 
 🎨 Redbubble      https://www.redbubble.com/people/programzombie/shop?asc=u
 
-Created by [Karina Slizova](https://www.facebook.com/karinka.svit/)
+Created by [Karina Slizova](https://twitter.com/slizovakari)
 
 Drop me an email, if you have any questions or suggestions:
 ✉ karinkasvit@gmail.com
