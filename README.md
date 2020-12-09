@@ -41,7 +41,11 @@ Drop me an email, if you have any questions or suggestions:
 
 ## My other projects
 
-If you liked this project, you may also want to see [Gophers set on Github](https://github.com/karinkasweet/Gopher-sticker-pack)
+If you liked this project, you may also want to see
 
-[Gophers set on Redbubble](https://www.redbubble.com/shop/ap/63226432).
+[Gophers set on Github](https://github.com/karinkasweet/Gopher-sticker-pack)
+
+[Cyberpunk Gophers](https://github.com/karinkasweet/Cyberpunk-gophers)
+
+[Gophers set on Redbubble](https://www.redbubble.com/shop/ap/63226432)
 
