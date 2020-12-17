@@ -30,9 +30,20 @@ Please see full [LICENSE](https://github.com/karinkasweet/space_gophers/blob/mai
 ## About me
 My name is Karina Slizova, I am a professional illustrator and graphic designer, some of my works can be found here:
 
-🎨 Metal posters https://displate.com/karisl
+🎨 Metal posters with Gopher and Tux  https://displate.com/karisl
 
-🎨 Redbubble      https://www.redbubble.com/people/programzombie/shop?asc=u
+🎨 Redbubble    https://www.redbubble.com/people/programzombie/shop?asc=u
+
+🎨 TeePublick   https://www.teepublic.com/user/coding-planet
+
+🎨 TeeChip  https://teechip.com/stores/geekyzone
+
+
+Thanks 🙏 
+
+I will try to update it every month
+
+
 
 Created by [Karina Slizova](https://twitter.com/slizovakari)
 
