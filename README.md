@@ -11,11 +11,12 @@ The Go gopher was designed by the awesome [Renée French](http://reneefrench.blo
 If you want some fun gophers __t-shirts, mugs, stickers on a laptop__ - now you can buy them with delivery:  
 ✨👉 [Redbubble]((https://www.redbubble.com/people/programzombie/shop?artistUserName=programzombie&asc=u&collections=1881212&iaCode=all-departments&sortOrder=relevant)) 👈✨
 
-[<img src="images/Gopher-in-rocket -gradient.png" width="150">](images/Gopher-in-rocket%20-gradient.png)
+[<img src="images/Gopher-in-rocket-gradient.png" width="150">](images/Gopher-in-rocket-gradient.png)
 [<img src="images/Gopher-space-commet.png" width="150">](images/Gopher-space-commet.png)
 [<img src="images/bubble.png" width="150">](images/bubble.png)
-[<img src="images/space-trip-Gr.png" width="150">](images/space-trip-Gr.png)
+[<img src="images/space-trip.png" width="150">](images/space-trip.png)
 [<img src="images/alien.png" width="150">](images/alien.png)
+[<img src="images/catch.png" width="150">](images/catch.png)
 
 ## License
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
