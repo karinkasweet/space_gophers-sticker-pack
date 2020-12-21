@@ -2,7 +2,7 @@
 # space_gophers
 ## Meet the New Space Gophers!
 
-[<img src="images/Space-trip-gophers.png" width="100%">](images/Space-trip-gophers.png)
+[<img src="images/Space-trip-gophers.jpg" width="100%">](images/Space-trip-gophers.jpg)
 
 The Go gopher was designed by the awesome [Renée French](http://reneefrench.blogspot.com/). Read http://blog.golang.org/gopher for more details.
 
