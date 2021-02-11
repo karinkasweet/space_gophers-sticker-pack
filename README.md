@@ -9,7 +9,9 @@ The Go gopher was designed by the awesome [Renée French](http://reneefrench.blo
 ## Shop
 
 If you want some fun gophers __t-shirts, mugs, stickers on a laptop__ - now you can buy them with delivery:  
-✨👉 [Redbubble]((https://www.redbubble.com/people/programzombie/shop?artistUserName=programzombie&asc=u&collections=1881212&iaCode=all-departments&sortOrder=relevant)) 👈✨
+✨👉 [TeePublick](https://www.teepublic.com/user/coding-planet/albums/95234-golang-gophers) 👈✨
+
+✨👉 [Metal posters](https://displate.com/karisl) 👈✨
 
 [<img src="images/Gopher-in-rocket-gradient.png" width="150">](images/Gopher-in-rocket-gradient.png)
 [<img src="images/Gopher-space-commet.png" width="150">](images/Gopher-space-commet.png)
@@ -30,15 +32,6 @@ Please see full [LICENSE](https://github.com/karinkasweet/space_gophers/blob/mai
 
 ## About me
 My name is Karina Slizova, I am a professional illustrator and graphic designer, some of my works can be found here:
-
-🎨 Metal posters with Gopher and Tux  https://displate.com/karisl
-
-🎨 TeePublick   https://www.teepublic.com/user/coding-planet/albums/95234-golang-gophers
-
-Thanks 🙏 
-
-I will try to update it every month
-
 
 
 Created by [Karina Slizova](https://twitter.com/slizovakari)
