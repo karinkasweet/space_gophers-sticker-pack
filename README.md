@@ -33,12 +33,7 @@ My name is Karina Slizova, I am a professional illustrator and graphic designer,
 
 🎨 Metal posters with Gopher and Tux  https://displate.com/karisl
 
-🎨 Redbubble    https://www.redbubble.com/people/programzombie/shop?asc=u
-
-🎨 TeePublick   https://www.teepublic.com/user/coding-planet
-
-🎨 TeeChip  https://teechip.com/stores/geekyzone
-
+🎨 TeePublick   https://www.teepublic.com/user/coding-planet/albums/95234-golang-gophers
 
 Thanks 🙏 
 
